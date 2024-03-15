@@ -1,8 +1,9 @@
 {
   "name": "week6",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "type": "module",
+  "homepage": " https://wei886-tw.github.io/Week6/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
